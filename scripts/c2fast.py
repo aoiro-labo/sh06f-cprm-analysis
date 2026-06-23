@@ -72,13 +72,15 @@ def F(W,K,ops):
     return W
 
 def dec_block(block8, rks):
+    # 正しい C2 復号: 鍵を逆順、ROUND_OPS も逆順
+    # test_c2_roundtrip2.py dec_v2 で検証済み
     L=list(block8[0:4]); R=list(block8[4:8])
     for r in range(16):
         oldR=R
-        Fr=F(R, rks[r], ROUND_OPS[r])
+        Fr=F(R, rks[15-r], ROUND_OPS[15-r])
         R=[(Fr[i]^L[i])&0xff for i in range(4)]
         L=oldR
-    return bytes(R+L)        # 最終swap (実コードと一致)
+    return bytes(R+L)
 
 def dec_ecb(ct, key8):
     rks=key_schedule(key8)
