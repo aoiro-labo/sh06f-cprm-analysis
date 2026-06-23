@@ -1,0 +1,14 @@
+=======================================================
+### SDCore.dll
+-- exports(1): SDCoreInterface
+-- imports:
+   KERNEL32.dll: GetModuleFileNameA, FreeLibrary, InterlockedIncrement, InterlockedDecrement, GetProcAddress, LoadLibraryA, FindClose, FindNextFileA, FindFirstFileA, InitializeCriticalSection, DeleteCriticalSection, EnterCriticalSection, LeaveCriticalSection, GetCurrentProcessId, GetCurrentThreadId, GetTickCount, QueryPerformanceCounter, IsDebuggerPresent, SetUnhandledExceptionFilter, UnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, InterlockedCompareExchange, Sleep, InterlockedExchange, GetSystemTimeAsFileTime
+   MSVCP80.dll: ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z, ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z, ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+   MSVCR80.dll: memset, _invalid_parameter_noinfo, _CxxThrowException, _mbsrchr, memmove_s, _encode_pointer, _malloc_crt, _encoded_null, free, _decode_pointer, _initterm, _initterm_e, _amsg_exit, _adjust_fdiv, __CppXcptFilter, strlen, ?terminate@@YAXXZ, ?_type_info_dtor_internal_method@type_info@@QAEXXZ, __clean_type_info_names_internal, _unlock, __dllonexit, _lock, _onexit, _except_handler4_common, ??0exception@std@@QAE@XZ, ??1exception@std@@UAE@XZ, ?what@exception@std@@UBEPBDXZ, ??0exception@std@@QAE@ABQBD@Z, __CxxFrameHandler3, ??2@YAPAXI@Z, ??3@YAXPAX@Z, memcmp, strcmp, strcpy, _crt_debugger_hook
+=======================================================
+### SDCprm.dll
+-- exports(1): SDGetClassObject
+-- imports:
+   KERNEL32.dll: IsBadWritePtr, IsBadReadPtr, GetLocalTime, CloseHandle, FlushFileBuffers, CreateFileA, Sleep, DeviceIoControl, SleepEx, InterlockedDecrement, InterlockedIncrement, VirtualFree, WaitForSingleObject, CreateMutexA, GetProcAddress, GetModuleHandleA, Module32Next, Module32First, CreateToolhelp32Snapshot, GlobalFree, ReadFile, GlobalAlloc, GetFileSize, GetLastError, VirtualAlloc, ReleaseMutex, GetVersionExA, GetModuleFileNameA, LoadLibraryA, FreeLibrary
+   ADVAPI32.dll: RegQueryValueExA, RegCloseKey, RegOpenKeyExA
+   MSVCRT.dll: fread, fseek, fopen, rand, srand, time, sprintf, __CxxFrameHandler, ??3@YAXPAX@Z, ??2@YAPAXI@Z, __dllonexit, _onexit, _initterm, _adjust_fdiv, fclose, malloc, free, _mbsrchr

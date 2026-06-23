@@ -1,0 +1,25 @@
+静的インポートDLL (EXE起動に必須):
+  ExCtrls.dll            [OK 在]
+  MirsMap.dll            [OK 在]
+  MFC80.DLL              [system/runtime]
+  MSVCR80.dll            [system/runtime]
+  KERNEL32.dll           [system/runtime]
+  USER32.dll             [system/runtime]
+  GDI32.dll              [system/runtime]
+  ADVAPI32.dll           [system/runtime]
+  SHELL32.dll            [system/runtime]
+  SHLWAPI.dll            [system/runtime]
+  ole32.dll              [system/runtime]
+  OLEAUT32.dll           [system/runtime]
+  urlmon.dll             [MISSING 欠落]
+  MSVCP80.dll            [system/runtime]
+  imagehlp.dll           [MISSING 欠落]
+  WININET.dll            [system/runtime]
+  WINMM.dll              [system/runtime]
+  IMM32.dll              [system/runtime]
+  VERSION.dll            [system/runtime]
+  WS2_32.dll             [system/runtime]
+
+動的ロード(実行時/CPRM時): SDCore.dll, SDCprm.dll  ※両方フォルダに無い
+
+起動必須で欠落: urlmon.dll, imagehlp.dll

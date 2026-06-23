@@ -1,0 +1,183 @@
+=== SDMIプロセス一覧 ===
+  pid=29772 SD-MobileImpact.exe
+  pid=23092 SD-MobileImpact.exe
+  pid=30020 SD-MobileImpact.exe
+
+=== SDApf/CPRM/デバイス/MKB へのアクセス全件 (8482) ===
+[Explorer.EXE] CreateFile|C:\Users\aoiro\Documents\ワンセグ関係（録画機器：SH-06F）\Panasonic\SDApf|OK
+[Explorer.EXE] QueryRemoteProtocolInformation|C:\Users\aoiro\Documents\ワンセグ関係（録画機器：SH-06F）\Panasonic\SDApf|0xc000000d
+[Explorer.EXE] QueryDirectory|C:\Users\aoiro\Documents\ワンセグ関係（録画機器：SH-06F）\Panasonic\SDApf|OK
+[Explorer.EXE] QueryDirectory|C:\Users\aoiro\Documents\ワンセグ関係（録画機器：SH-06F）\Panasonic\SDApf|0x80000006
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x80000005
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x80000005
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryNameInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0004|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] RegOpenKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegQueryValue|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002\(Default)|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#\Properties\{4d1ebee8-0803-4774-9842-b77db50265e9}\0002|OK
+[Explorer.EXE] RegCloseKey|HKLM\System\CurrentControlSet\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\##?#SCSI#CdRom&Ven_Yubsoft&Prod_ImgDrive#1&1843ccbc&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\#|OK
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe.Config|NOT FOUND
+[csrss.exe] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] QueryIdInformation|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0xc000003a
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x80000005
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x80000005
+[Explorer.EXE] QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryNameInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] RegQueryValue|HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] QueryStandardInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe.Config|NOT FOUND
+[csrss.exe] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] QueryIdInformation|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[csrss.exe] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] QueryBasicInformationFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|0x12a
+[Explorer.EXE] CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+[Explorer.EXE] CloseFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+
+=== Process Create (プロセスツリー) ===
+
+=== pid=29772 SD-MobileImpact.exe の最後の35操作 ===
+Process_Start||OK
+Thread_Create||OK
+Load_Image|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+Load_Image|C:\Windows\System32\ntdll.dll|OK
+Load_Image|C:\Windows\SysWOW64\ntdll.dll|OK
+Thread_Exit||OK
+Process_Exit||OK
+RegOpenKey|HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2729028353-1595219531-3096044155-1001|OK
+RegQueryValue|HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2729028353-1595219531-3096044155-1001\\Device\HarddiskVolume3\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+RegSetValue|HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2729028353-1595219531-3096044155-1001\\Device\HarddiskVolume3\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|OK
+RegCloseKey|HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2729028353-1595219531-3096044155-1001|OK
+
+=== pid=23092 SD-MobileImpact.exe の最後の35操作 ===
+RegCloseKey|HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer|OK
+CloseFile|C:\Windows\SystemResources\wininet.dll.mun|OK
+RegCloseKey|HKCU\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings|OK
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings|OK
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Internet Settings|OK
+RegCloseKey|HKCU\Software\Microsoft\Internet Explorer\Download|OK
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\MpeHttpExt\Payload|OK
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows|OK
+CloseFile|C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_26100.172.268.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\a284960c04c9bcd1d23289321f222b5f\user32.dll.mui|OK
+CloseFile|C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_26100.172.268.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\ac2934810dea527678adc061bb5ad1a3\msctf.dll.mui|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\Fonts\StaticCache.dat|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|OK
+
+=== pid=30020 SD-MobileImpact.exe の最後の35操作 ===
+Process_Profiling||OK
+Process_Profiling||OK
+Process_Profiling||OK

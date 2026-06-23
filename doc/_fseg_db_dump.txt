@@ -1,0 +1,40 @@
+============================================================
+DB: PRIVATE/SHARP/FSEG/10001/SHFSEG0001.DB
+contentsId=10001 remoteCtrlID=5 serviceID=0 type=1
+  title   : 日５「魔法少女まどか☆マギカ　始まりの物語／永遠の物語」TV Edition　＃
+  channel : ＣＢＣテレビ 
+  rec     : 2025/12/07 17:20:46 -> 2025/12/07 17:30:05  playTime=559000ms dataSize=883028104
+  saveDate: 2025/12/07 17:30:06 resume=307850
+  secureInfo: len=64 hex=2b3097ae10606e16e216825f5bb17657091b900b4b43fe4d45ddf96dd5b2e66509603a4da1ab5ef3ac790f1ebdd48e19f3b8df954a0ce93dd4067d27b3760584
+  emmNum    : len=64 hex=8e79954b41aa0ee8098e25d08eabacc7a787682a316eb4496c32d3f063b9d942f183a73fb9005ede82ce60b1ca2d3582a4ce1a6eff4f2eac0c8daeea30b9cf28
+  copyCount : 086d789f4daddb160d6f79e1a2ec0e00d325dd09e974de427a1387d69aaa1a275e0ccce13c092bf8e5683f809e7a4555ed1465eb6d54dec31973b53d5815c488
+============================================================
+DB: PRIVATE/SHARP/FSEG/10002/SHFSEG0001.DB
+contentsId=10002 remoteCtrlID=5 serviceID=0 type=1
+  title   : バナナサンド☆冬ソングでハモリ我慢ＳＰ！激レア…福士蒼汰がテレビで初歌唱！   
+  channel : ＣＢＣテレビ 
+  rec     : 2025/12/09 20:07:23 -> 2025/12/09 20:17:25  playTime=602000ms dataSize=1253866000
+  saveDate: 2025/12/09 20:17:26 resume=27066
+  secureInfo: len=64 hex=40ce406550ed435c5e1ec97d71a852e2a82b6630ac6f8f4009f509ffe1a79c1590a407229c6ac386ad1281238b68f98d0675ceff450743caa8973eaa4a55c5b4
+  emmNum    : len=64 hex=ca4e5a7c7632f5cbf0ee7a6f8eb209ca4797701a1fd671b1ac80b3fdcdf26721e2bee744f09738e97bd9203f99b371dd44ae5082486f83b03d68d4eab691d6ff
+  copyCount : 5930556dbe1e6fa45b007d763b617d939567eb94e41168f9800338a66178edcf6acbf7f13bceff30997a47e21d3dee1c8a8473d57987d62531b37494885acd02
+============================================================
+DB: PRIVATE/SHARP/FSEG/10003/SHFSEG0001.DB
+contentsId=10003 remoteCtrlID=3 serviceID=0 type=1
+  title   : うたコン　生放送！アワード２０２５▽岩崎宏美・純烈・新浜レオン 
+  channel : ＮＨＫ総合・名古屋 
+  rec     : 2025/12/09 20:18:18 -> 2025/12/09 20:28:29  playTime=611000ms dataSize=1233216832
+  saveDate: 2025/12/09 20:28:30 resume=0
+  secureInfo: len=64 hex=06052a32056d89fc717029c7ab8163d10b401855cd9294785f676a89ebe6ef38f45b3cd77ea4c4f6acd4d659f893a696709d4cef499ed98f413e568727e22b59
+  emmNum    : len=64 hex=61459ce88bd60a2086b46234f41655d1e8267874ac70fe8020c3b832027ce6d90a7b83e9a978ad629efb51e7c3c90b873dbcad526169886112557416f7936322
+  copyCount : 5c04888893a49dc06cbab630c0a82364d83d239e7841c1f15fd776fd779153e7cb228b28a43689db3d9d82f7d394ae441afd1e0f013bb95bbbae6673d7ba237c
+============================================================
+DB: PRIVATE/SHARP/FSEG/10004/SHFSEG0001.DB
+contentsId=10004 remoteCtrlID=1 serviceID=0 type=1
+  title   : 今夜はナゾトレ下半期優勝決定戦！１５００万部ベストセラー図鑑から学べる最強Ｑ  
+  channel : 東海テレビ 
+  rec     : 2025/12/09 20:30:57 -> 2025/12/09 20:41:16  playTime=619000ms dataSize=1245987108
+  saveDate: 2025/12/09 20:41:16 resume=0
+  secureInfo: len=64 hex=93c7f269cfa7c789fc4ba03063f362b6c2d7b01445992ebed08e07b65a340680a454b96fa42c2d8c9871d5673981d7c7673d55fe7c1ec962dac38fef2a836ea2
+  emmNum    : len=64 hex=432763eae8209bc090ce154fbaffde4f35c79180f2cbf97820942093acb41f92f4e16c1a446257b3c132f60ad2117d703bcecff5af726e702dc09eb546f09b22
+  copyCount : 0e5ec7c4d6d86fe26e9669935b8b082f2462ac5b22392292c35038d7a96d5481845725337217df4263156bfac1153e2fb46ec1b607129dfb41d1170b651d91ca

@@ -1,0 +1,29 @@
+### 各PEの依存DLL一覧（CPRM/SCSI手掛かり）
+CNUpdate.dll                 -> KERNEL32.dll, USER32.dll, ADVAPI32.dll, ole32.dll, OLEAUT32.dll, MSVCP60.dll, MSVCRT.dll, WININET.dll, urlmon.dll, SHLWAPI.dll, imagehlp.dll
+CddbLangJA.dll               -> KERNEL32.dll
+CtrlDraw.dll                 -> KERNEL32.dll, USER32.dll, GDI32.dll, dbghelp.dll, MSVCR80.dll
+ExCtrls.dll                  -> WINMM.dll, MFC80.DLL, MSVCR80.dll, KERNEL32.dll, USER32.dll, GDI32.dll, SHELL32.dll, COMCTL32.dll, SHLWAPI.dll, ole32.dll, MSVCP80.dll
+MapJapneseRes.dll            -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll
+MapResJPN_Gr.dll             -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll
+MapResJPN_Gy.dll             -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll
+MirsMap.dll                  -> ExCtrls.dll, MFC80.DLL, MSVCR80.dll, KERNEL32.dll, USER32.dll, GDI32.dll, ole32.dll
+RsrcBmpJPN_Gr.dll            -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll, USER32.dll
+RsrcBmpJPN_Gy.dll            -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll, USER32.dll
+RsrcJPN_Gr.dll               -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll
+RsrcJPN_Gy.dll               -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll
+SD-MobileImpact.exe          -> ExCtrls.dll, MirsMap.dll, MFC80.DLL, MSVCR80.dll, KERNEL32.dll, USER32.dll, GDI32.dll, ADVAPI32.dll, SHELL32.dll, SHLWAPI.dll, ole32.dll, OLEAUT32.dll, urlmon.dll, MSVCP80.dll, imagehlp.dll, WININET.dll, WINMM.dll, IMM32.dll, VERSION.dll, WS2_32.dll
+SD-MobileImpactLauncher.exe  -> MFC80.DLL, MSVCR80.dll, KERNEL32.dll, ADVAPI32.dll, COMCTL32.dll, SHLWAPI.dll
+SDInfo.dll                   -> KERNEL32.dll, MSVCP60.dll, MSVCRT.dll
+VACtrl.dll                   -> KERNEL32.dll, USER32.dll, ole32.dll, MSVCR80.dll
+Wnaspi32.dll                 -> KERNEL32.dll, ADVAPI32.dll
+audsub3.sys                  -> ntoskrnl.exe
+instaudsub.exe               -> KERNEL32.dll, ADVAPI32.dll
+meiedit.dll                  -> MFC42.DLL, MSVCRT.dll, KERNEL32.dll
+meitrns.dll                  -> MFC42.DLL, MSVCRT.dll, KERNEL32.dll, SHELL32.dll, ole32.dll, OLEAUT32.dll, SHLWAPI.dll
+mirspl.dll                   -> KERNEL32.dll
+mirssdk.dll                  -> KERNEL32.dll, USER32.dll, SHLWAPI.dll, OLEACC.dll, GDI32.dll, WINSPOOL.DRV, ADVAPI32.dll, OLEAUT32.dll
+mirssom.dll                  -> KERNEL32.dll, USER32.dll, SHLWAPI.dll, OLEACC.dll, GDI32.dll, WINSPOOL.DRV, OLEAUT32.dll
+pimgtool.dll                 -> KERNEL32.dll, USER32.dll, GDI32.dll, MSVCRT.dll
+sdcard_help.exe              -> WSOCK32.dll, ole32.dll, OLEAUT32.dll, WININET.dll, KERNEL32.dll, USER32.dll, GDI32.dll, comdlg32.dll, ADVAPI32.dll, SHELL32.dll, WINMM.dll
+shoukai_movie.exe            -> WSOCK32.dll, ole32.dll, OLEAUT32.dll, WININET.dll, KERNEL32.dll, USER32.dll, GDI32.dll, comdlg32.dll, ADVAPI32.dll, SHELL32.dll, WINMM.dll
+vcredist_x86.exe             -> ADVAPI32.dll, KERNEL32.dll, GDI32.dll, USER32.dll, COMCTL32.dll, VERSION.dll

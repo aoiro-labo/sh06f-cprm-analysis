@@ -1,0 +1,88 @@
+# ======================================================
+# SHARP SH-06F CPRM 解析プロジェクト .gitignore
+# ======================================================
+
+# ----------------------------------------
+# 著作権コンテンツ本体
+# ----------------------------------------
+# フルセグ映像 (SHARP独自暗号, 著作権コンテンツ)
+PRIVATE/
+
+# ワンセグ映像本体 (CPRM暗号化, 著作権コンテンツ)
+# .moi/.mai/.pgi (メタデータ/管理情報, 平文) は証拠として残す
+SD_VIDEO/**/*.sb1
+
+# 復号済み/解析中間バイナリ (著作権コンテンツ派生)
+scripts/dec_ts_raw.bin
+scripts/decoded_chunk.bin
+recovered/
+
+# ----------------------------------------
+# 再配布不可ソフトウェア
+# ----------------------------------------
+# SD-MobileImpact 本体一式 (license.txt / readme.txt のみ保持)
+SD-MobileImpact/*.exe
+SD-MobileImpact/*.dll
+SD-MobileImpact/*.sys
+SD-MobileImpact/*.pdf
+SD-MobileImpact/*.ax
+SD-MobileImpact/Media/
+SD-MobileImpact/Frame/
+
+# Panasonic SDApf DLL群
+Panasonic/
+
+# パッチEXE・インストーラ (c2_sbox.bin / *.reg / *.bat は残す)
+doc/_migration_kit/*.exe
+doc/_migration_kit/*.zip
+doc/_migration_kit/*.iso
+doc/patch.iso
+
+# SDCprm アンパック済みバイナリ
+scripts/sdcprm_unpacked.bin
+
+# コンパイル済みバイナリ・パッチDLL (c2brute.c から再ビルド可、DLLは再配布不可)
+scripts/c2brute.exe
+scripts/c2brute_prg012.exe
+Dumped.exe
+sddevmgr_patched.dll
+*.dll
+
+# DLLメモリダンプ断片 (Panasonic独自コード、再配布不可)
+Dump_*.bin
+
+# ISOファイル (インストールメディア)
+*.iso
+
+# ----------------------------------------
+# 機密・大容量データ
+# ----------------------------------------
+# メモリダンプ
+*.dmp
+
+# Procmon ログ
+*.PML
+
+# ディスクイメージ
+*.dd32
+a.dd32
+
+# ----------------------------------------
+# 第三者著作物
+# ----------------------------------------
+# StationTV APK 展開フォルダ (スクリーンショット等は残す)
+"SH-06F TVアプリ関係/テレビ 1.5-r30503*/"
+SH-06F TVアプリ関係/テレビ*/
+
+# ----------------------------------------
+# 作業ログ
+# ----------------------------------------
+scan_*.log
+
+# ----------------------------------------
+# Python キャッシュ
+# ----------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

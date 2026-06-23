@@ -1,0 +1,283 @@
+==== 注目: 非SUCCESSの重要操作 (5766件) ====
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SD-MobileImpact.exe|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Wow64\x86\SD-MobileImpact.exe|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\SafeBoot\Option|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\Srp\GP\DLL|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\FileSystem\LPGO|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\apphelp.dll|0x12a
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\LogFlags|NAME NOT FOUND
+RegOpenKey|HKLM\OSDATA\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\ShowDebugInfo|NAME NOT FOUND
+QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\SD-MobileImpact.exe|BUFFER OVERFLOW
+QuerySecurityFile|C:\Windows\SysWOW64\ntdll.dll|BUFFER OVERFLOW
+QuerySecurityFile|C:\Windows\SysWOW64\kernel32.dll|BUFFER OVERFLOW
+QuerySecurityFile|C:\Windows\SysWOW64\KernelBase.dll|BUFFER OVERFLOW
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysmain.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysmain.sdb|BUFFER TOO SMALL
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysmain.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysmain.sdb|BUFFER TOO SMALL
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\AcLayers.dll|0x12a
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\LogFlags|NAME NOT FOUND
+RegOpenKey|HKLM\OSDATA\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\ja-JP|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\ja-JP|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysMerge.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysmain.sdb|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysmain.sdb|BUFFER TOO SMALL
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs|NAME NOT FOUND
+RegOpenKey|HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Disable8And16BitMitigation|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\EMPTY|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\EMPTY|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\MUI\UILanguages\en-US\AlternateCodePage|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\MUI\UILanguages\ja-JP\AlternateCodePage|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\MUI\UILanguages\PendingDelete|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration|NAME NOT FOUND
+RegOpenKey|HKLM\System\CurrentControlSet\Control\MUI\Settings\LanguageConfiguration|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegOpenKey|HKCU\Control Panel\Desktop\LanguageConfiguration|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegQueryValue|HKCU\Control Panel\Desktop\PreferredUILanguages|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegQueryValue|HKCU\Control Panel\Desktop\PreferredUILanguages|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegOpenKey|HKCU\Control Panel\Desktop\LanguageConfiguration|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\msvcrt.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\win32u.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\ucrtbase.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\msvcp_win.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\user32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\gdi32full.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\gdi32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\rpcrt4.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\shlwapi.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\en-US|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\en|NAME NOT FOUND
+RegQueryValue|HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\ja-JP|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\imm32.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\imm32.dll|BUFFER OVERFLOW
+RegOpenKey|HKLM\System\CurrentControlSet\Control\Error Message Instrument|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options|0x104
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SD-MobileImpact.exe|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\Display|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\Display|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SD-MobileImpact.exe|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\Display|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\Display|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\GRE_Initialize|0x104
+RegQueryValue|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableMetaFiles|NAME NOT FOUND
+RegOpenKey|HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SD-MobileImpact.exe|NAME NOT FOUND
+RegOpenKey|HKLM\Software\Policies\Microsoft\Windows\Control Panel\Desktop|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop|NAME NOT FOUND
+RegQueryValue|HKCU\Control Panel\Desktop\EnablePerProcessSystemDPI|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Compatibility32\SD-MobileImpact|NAME NOT FOUND
+RegOpenKey|HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\IME Compatibility|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SD-MobileImpact.exe|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195\mfc80.dll|0x12a
+CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\MirsMap.dll|0x12a
+CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\ExCtrls.dll|0x12a
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegQueryValue|HKCU\Control Panel\Desktop\PreferredUILanguages|NAME NOT FOUND
+RegOpenKey|HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings|NAME NOT FOUND
+RegOpenKey|HKCU\Software\Policies\Microsoft\Control Panel\Desktop|NAME NOT FOUND
+RegOpenKey|HKCU\Control Panel\Desktop\LanguageConfiguration|NAME NOT FOUND
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28\msvcr80.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28\msvcr80.dll|0x12a
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28\msvcp80.dll|0x12a
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\urlmon.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\WININET.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\VERSION.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\WINMM.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\urlmon.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\WININET.dll|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\urlmon.dll|0x12a
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\WINMM.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\VERSION.dll|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\wininet.dll|0x12a
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\iertutil.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\iertutil.dll|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\version.dll|0x12a
+CreateFileMapping|C:\Windows\SysWOW64\winmm.dll|0x12a
+CreateFileMapping|C:\Windows\SysWOW64\windows.storage.dll|0x12a
+CreateFileMapping|C:\Windows\SysWOW64\iertutil.dll|0x12a
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\netutils.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\srvcli.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\srvcli.dll|NAME NOT FOUND
+CreateFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\netutils.dll|NAME NOT FOUND
+CreateFileMapping|C:\Windows\SysWOW64\srvcli.dll|0x12a
+CreateFileMapping|C:\Windows\SysWOW64\netutils.dll|0x12a
+CreateFileMapping|C:\Program Files (x86)\Panasonic\SD-MobileImpact\ExCtrls.dll|0x12a
+RegQueryValue|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+RegOpenKey|HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.26100.8521_none_cf9e08b68ea73d80\comctl32.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\winmm.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\shell32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\sechost.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\advapi32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\combase.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\ole32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DllNXOptions|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\ExCtrls.dll|BUFFER OVERFLOW
+RegOpenKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DllNXOptions|NAME NOT FOUND
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Program Files (x86)\Panasonic\SD-MobileImpact\MirsMap.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\oleaut32.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\srvcli.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\netutils.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\iertutil.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\windows.storage.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\urlmon.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\imagehlp.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\wininet.dll|BUFFER OVERFLOW
+CreateFileMapping|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961\GdiPlus.dll|0x12a
+QuerySecurityFile|C:\Windows\SysWOW64\version.dll|BUFFER OVERFLOW
+
+==== クラッシュ直前の末尾80イベント ====
+RegCloseKey|HKLM\System\CurrentControlSet\Control\Nls\CustomLocale|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.8655_none_b6a386b352405961|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options|SUCCESS
+RegCloseKey|HKLM|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.26100.8521_none_cf9e08b68ea73d80|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfcloc_1fc8b3b9a1e18e3b_none_36654d36d135ea77\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+RegCloseKey|HKLM|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Microsoft\Ole|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Windhawk\Engine\Mods|SUCCESS
+CloseFile|C:\ProgramData\Windhawk\Engine\ModsWritable\mod-status\4232_134261577247466226_23092_explorer-details-better-file-sizes|SUCCESS
+RegCloseKey|HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9|SUCCESS
+RegCloseKey|HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5|SUCCESS
+CloseFile|C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_26100.172.268.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\a0954090cb9e3a6dba3e4178a3aeb73b\MFC42.dll.mui|SUCCESS
+RegCloseKey|HKCU|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+RegCloseKey|HKLM\System\CurrentControlSet\Control\Nls\CodePage|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+RegCloseKey|HKCU\Software\Classes|SUCCESS
+RegCloseKey|HKCR|SUCCESS
+RegCloseKey|HKCR\PackagedCom|SUCCESS
+RegCloseKey|HKCR\PackagedCom\ClassIndex|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Policies|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Internet Explorer\Security|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer\Main|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Internet Explorer\Main|SUCCESS
+RegCloseKey|HKCU\Software\Policies|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer\Security|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer\Main\FeatureControl|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Internet Explorer\Main\FeatureControl|SUCCESS
+RegCloseKey|HKCU\Software|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node|SUCCESS
+RegCloseKey|HKCR|SUCCESS
+RegCloseKey|HKLM|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache|SUCCESS
+RegCloseKey|HKU|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer|SUCCESS
+CloseFile|C:\Windows\SystemResources\wininet.dll.mun|SUCCESS
+RegCloseKey|HKCU\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Internet Settings|SUCCESS
+RegCloseKey|HKCU\Software\Microsoft\Internet Explorer\Download|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows\MpeHttpExt\Payload|SUCCESS
+RegCloseKey|HKLM\SOFTWARE\Policies\Microsoft\Windows|SUCCESS
+CloseFile|C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_26100.172.268.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\a284960c04c9bcd1d23289321f222b5f\user32.dll.mui|SUCCESS
+CloseFile|C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackja-JP_26100.172.268.0_neutral__8wekyb3d8bbwe\Windows\System32\ja-JP\ac2934810dea527678adc061bb5ad1a3\msctf.dll.mui|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\Fonts\StaticCache.dat|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\Fusion\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_none_bd39c11e9405d29b\8.0\8.0.50727.6195|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS
+CloseFile|C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28|SUCCESS

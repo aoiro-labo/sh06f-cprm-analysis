@@ -1,0 +1,8 @@
+--- Full BLOB Data Dump from C:\Users\aoiro\Documents\新しいフォルダー\PRIVATE\SHARP\FSEG\10002\SHFSEG0001.DB ---
+
+-------------------------------------------------- Record ID: 10002 --------------------------------------------------
+Title: バナナサンド☆冬ソングでハモリ我慢ＳＰ！激レア…福士蒼汰がテレビで初歌唱！
+ secureInfo (Len: 64 bytes, Full Hex): 40ce406550ed435c5e1ec97d71a852e2a82b6630ac6f8f4009f509ffe1a79c1590a407229c6ac386ad1281238b68f98d0675ceff450743caa8973eaa4a55c5b4
+ emmNum (Len: 64 bytes, Full Hex):     ca4e5a7c7632f5cbf0ee7a6f8eb209ca4797701a1fd671b1ac80b3fdcdf26721e2bee744f09738e97bd9203f99b371dd44ae5082486f83b03d68d4eab691d6ff
+ copyCount (Len: 64 bytes, Full Hex):  5930556dbe1e6fa45b007d763b617d939567eb94e41168f9800338a66178edcf6acbf7f13bceff30997a47e21d3dee1c8a8473d57987d62531b37494885acd02
+

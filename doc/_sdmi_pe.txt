@@ -1,0 +1,146 @@
+============================================================
+### mirssdk.dll
+-- sections --
+  .text    vsz=0x021756 rsz=0x022000 entropy=6.66
+  .rdata   vsz=0x007dc6 rsz=0x008000 entropy=4.98
+  .data    vsz=0x005bdc rsz=0x003000 entropy=3.00
+  .rsrc    vsz=0x0033a0 rsz=0x004000 entropy=4.68
+  .reloc   vsz=0x004a68 rsz=0x005000 entropy=3.74
+-- exports --
+     6 mirsAddBuffer
+     4 mirsCloseDB
+    16 mirsCopyData
+    26 mirsCreateDB
+    22 mirsCreateDB2
+     1 mirsCreateInstance
+    17 mirsCreatePlaylist
+    12 mirsDeleteData
+    10 mirsGetData
+    11 mirsGetEnableDataCount
+    14 mirsGetEnableID
+    19 mirsGetFlg
+     8 mirsGetNearData
+    25 mirsGetRealtimeTempo
+    15 mirsGetZappigPoint
+     5 mirsInitBuffer
+     3 mirsOpenDB
+     2 mirsRelease
+    13 mirsRemoveDB
+    21 mirsRemoveDB2
+    18 mirsSetFlg
+    20 mirsSetZappingPoint
+     7 mirsSubmit
+     9 mirsZappingSubmit
+-- imports (dll: funcs) --
+  KERNEL32.dll: DeleteFileA, FlushFileBuffers, GetThreadLocale, GetCurrentProcess, GetCPInfo, GetOEMCP, RtlUnwind, HeapAlloc, HeapFree, HeapReAlloc, VirtualAlloc, GetSystemTimeAsFileTime, GetCommandLineA, GetProcessHeap, ExitProcess, RaiseException, HeapSize, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetStdHandle, TerminateProcess, IsDebuggerPresent, Sleep, VirtualFree, HeapDestroy, HeapCreate, SetHandleCount, GetFileType, GetStartupInfoA, FreeEnvironmentStringsA, GetEnvironmentStrings, FreeEnvironmentStringsW, GetEnvironmentStringsW, QueryPerformanceCounter, GetTickCount, GetACP, GetConsoleCP, GetConsoleMode, LCMapStringA, LCMapStringW
+  USER32.dll: DestroyMenu, RegisterWindowMessageA, LoadIconA, WinHelpA, GetCapture, GetClassLongA, SetPropA, GetPropA, RemovePropA, IsWindow, GetForegroundWindow, GetDlgItem, GetTopWindow, DestroyWindow, GetMessageTime, GetMessagePos, MapWindowPoints, SetForegroundWindow, GetClientRect, GetMenu, CreateWindowExA, GetClassInfoExA, GetClassInfoA, RegisterClassA, AdjustWindowRectEx, CopyRect, DefWindowProcA, CallWindowProcA, SetWindowLongA, SetWindowPos, SystemParametersInfoA, IsIconic, GetWindowPlacement, GetSystemMetrics, ReleaseDC, GetDC, GrayStringA, DrawTextExA, DrawTextA, TabbedTextOutA
+  SHLWAPI.dll: PathFindFileNameA, PathFindExtensionA
+  OLEACC.dll: LresultFromObject, CreateStdAccessibleObject
+  GDI32.dll: DeleteDC, ExtTextOutA, GetStockObject, GetDeviceCaps, DeleteObject, SaveDC, RestoreDC, SetBkColor, SetTextColor, ScaleWindowExtEx, SetWindowExtEx, ScaleViewportExtEx, SetViewportExtEx, OffsetViewportOrgEx, SetViewportOrgEx, SelectObject, CreateBitmap, TextOutA, RectVisible, PtVisible, GetClipBox, SetMapMode, Escape
+  WINSPOOL.DRV: DocumentPropertiesA, OpenPrinterA, ClosePrinter
+  ADVAPI32.dll: RegSetValueExA, RegCreateKeyExA, RegQueryValueA, RegOpenKeyA, RegEnumKeyA, RegDeleteKeyA, RegOpenKeyExA, RegQueryValueExA, RegCloseKey
+  OLEAUT32.dll: VariantClear, VariantChangeType, VariantInit
+============================================================
+### mirssom.dll
+-- sections --
+  .text    vsz=0x029525 rsz=0x02a000 entropy=6.73
+  .rdata   vsz=0x00b0a9 rsz=0x00c000 entropy=5.34
+  .data    vsz=0x02019c rsz=0x003000 entropy=3.17
+  .rsrc    vsz=0x0000b0 rsz=0x001000 entropy=3.06
+  .reloc   vsz=0x004fb8 rsz=0x005000 entropy=3.80
+-- exports --
+    12 som1PtAddData
+    13 som1PtAnalysis
+    10 som1PtCreateInstance
+    14 som1PtGetFeature
+    21 som1PtGetHeapBytes
+    11 som1PtRelease
+     3 somExtAddData
+     4 somExtAnalysis
+     1 somExtCreateInstance
+     5 somExtGetFeature
+    19 somExtGetHeapBytes
+     2 somExtRelease
+     8 somZapAddData
+     9 somZapAnalysis
+     6 somZapCreateInstance
+    20 somZapGetHeapBytes
+     7 somZapRelease
+-- imports (dll: funcs) --
+  KERNEL32.dll: GetCPInfo, GetOEMCP, WriteFile, SetFilePointer, FlushFileBuffers, GetCurrentProcess, CreateFileA, RtlUnwind, HeapReAlloc, GetCommandLineA, GetProcessHeap, RaiseException, HeapSize, ExitProcess, TerminateProcess, UnhandledExceptionFilter, SetUnhandledExceptionFilter, IsDebuggerPresent, GetStdHandle, VirtualFree, Sleep, SetHandleCount, GetFileType, GetStartupInfoA, FreeEnvironmentStringsA, GetEnvironmentStrings, FreeEnvironmentStringsW, GetEnvironmentStringsW, QueryPerformanceCounter, GetTickCount, GetSystemTimeAsFileTime, GetACP, GetConsoleCP, GetConsoleMode, LCMapStringA, LCMapStringW, GetStringTypeA, GetStringTypeW, SetStdHandle, WriteConsoleA
+  USER32.dll: GrayStringA, DrawTextExA, DrawTextA, TabbedTextOutA, ClientToScreen, SetWindowTextA, RegisterWindowMessageA, LoadIconA, WinHelpA, GetCapture, GetClassLongA, GetClassNameA, SetPropA, GetPropA, RemovePropA, IsWindow, GetWindowTextA, GetForegroundWindow, GetDlgItem, GetTopWindow, DestroyWindow, GetMessageTime, GetMessagePos, MapWindowPoints, SetForegroundWindow, GetClientRect, GetMenu, PostMessageA, CreateWindowExA, GetClassInfoExA, GetClassInfoA, RegisterClassA, AdjustWindowRectEx, CopyRect, PtInRect, GetDlgCtrlID, DefWindowProcA, CallWindowProcA, SetWindowLongA, SetWindowPos
+  SHLWAPI.dll: PathFindExtensionA, PathFindFileNameA
+  OLEACC.dll: LresultFromObject, CreateStdAccessibleObject
+  GDI32.dll: DeleteDC, TextOutA, CreateBitmap, GetClipBox, SetTextColor, SetBkColor, DeleteObject, SaveDC, RestoreDC, GetStockObject, ScaleWindowExtEx, SetWindowExtEx, ScaleViewportExtEx, SetViewportExtEx, OffsetViewportOrgEx, SetViewportOrgEx, SelectObject, Escape, GetDeviceCaps, RectVisible, PtVisible, SetMapMode, ExtTextOutA
+  WINSPOOL.DRV: DocumentPropertiesA, OpenPrinterA, ClosePrinter
+  OLEAUT32.dll: VariantClear, VariantChangeType, VariantInit
+============================================================
+### mirspl.dll
+-- sections --
+  .text    vsz=0x00e10a rsz=0x00f000 entropy=6.62
+  .rdata   vsz=0x0083cb rsz=0x009000 entropy=5.86
+  .data    vsz=0x001f20 rsz=0x002000 entropy=2.61
+  .rsrc    vsz=0x0000b0 rsz=0x001000 entropy=3.06
+  .reloc   vsz=0x00118a rsz=0x002000 entropy=3.25
+-- exports --
+     1 somplCreateInstance
+     3 somplCreatePlaylist
+     6 somplGetHeapBytes
+     5 somplGetPlaylist
+     7 somplGetWorkAreaBytes
+     2 somplRelease
+     9 somplReleaseWorkArea
+     8 somplSetWorkArea
+-- imports (dll: funcs) --
+  KERNEL32.dll: HeapAlloc, HeapFree, HeapCreate, HeapDestroy, GetCurrentThreadId, GetCommandLineA, GetVersionExA, GetProcessHeap, GetProcAddress, GetModuleHandleA, TlsGetValue, TlsAlloc, TlsSetValue, TlsFree, InterlockedIncrement, SetLastError, GetLastError, InterlockedDecrement, ExitProcess, Sleep, SetHandleCount, GetStdHandle, GetFileType, GetStartupInfoA, DeleteCriticalSection, GetModuleFileNameA, FreeEnvironmentStringsA, GetEnvironmentStrings, FreeEnvironmentStringsW, WideCharToMultiByte, GetEnvironmentStringsW, VirtualFree, UnhandledExceptionFilter, QueryPerformanceCounter, GetTickCount, GetCurrentProcessId, GetSystemTimeAsFileTime, GetCPInfo, GetACP, GetOEMCP
+============================================================
+### SDInfo.dll
+-- sections --
+  .text    vsz=0x00335c rsz=0x004000 entropy=5.58
+  .rdata   vsz=0x000ae9 rsz=0x001000 entropy=3.71
+  .data    vsz=0x000030 rsz=0x001000 entropy=0.00
+  .rsrc    vsz=0x0003e0 rsz=0x001000 entropy=1.04
+  .reloc   vsz=0x0003d6 rsz=0x001000 entropy=1.98
+-- exports --
+     1 CreateSDPlayListInfo
+     2 CreateSDPrivateInfo
+     3 CreateSDTrackInfo
+     4 CreateSSATrackInfo
+-- imports (dll: funcs) --
+  KERNEL32.dll: IsBadReadPtr, IsBadWritePtr
+  MSVCP60.dll: ?_Tidy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAEX_N@Z, ?_C@?1??_Nullstr@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPBDXZ@4DB, ?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z, ?npos@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2IB, ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z, ?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z, ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ, ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBDABV?$allocator@D@1@@Z, ??1_Lockit@std@@QAE@XZ, ??0_Lockit@std@@QAE@XZ
+  MSVCRT.dll: __CxxFrameHandler, ??2@YAPAXI@Z, memset, memcpy, strlen, _purecall, strcmp, strcpy, _mbsnbcpy, memcmp, free, _except_handler3, ?terminate@@YAXXZ, _initterm, malloc, _adjust_fdiv
+============================================================
+### VACtrl.dll
+-- sections --
+  .text    vsz=0x0025b2 rsz=0x002600 entropy=6.08
+  .rdata   vsz=0x000b72 rsz=0x000c00 entropy=4.89
+  .data    vsz=0x000424 rsz=0x000200 entropy=2.50
+  .rsrc    vsz=0x000564 rsz=0x000600 entropy=4.46
+  .reloc   vsz=0x0002e2 rsz=0x000400 entropy=4.74
+-- exports --
+    16 GetAppMute
+    18 GetAppVolume
+     3 GetCountEndpoint
+     4 GetDefaultEndpointIndex
+     5 GetEndPointName
+    11 GetMainMute
+    13 GetMainVolume
+     1 Initialize
+     6 InitializeEndPoint
+     9 ResetNotifyParam
+    20 ResetNotifyParamForApp
+    15 SetAppMute
+    17 SetAppVolume
+    10 SetMainMute
+    12 SetMainVolume
+    14 SetNotifyGUID
+     8 SetNotifyParam
+    19 SetNotifyParamForApp
+     2 Uninitialize
+     7 UninitializeEndPoint
+-- imports (dll: funcs) --
+  KERNEL32.dll: lstrcmpW, GetSystemTimeAsFileTime, GetCurrentProcessId, GetCurrentThreadId, GetTickCount, QueryPerformanceCounter, IsDebuggerPresent, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, InterlockedCompareExchange, Sleep, InterlockedExchange, UnhandledExceptionFilter
+  USER32.dll: wsprintfW, PostMessageW
+  ole32.dll: CoCreateInstance, CoCreateGuid, PropVariantClear
+  MSVCR80.dll: _decode_pointer, _initterm, _initterm_e, free, _adjust_fdiv, __CppXcptFilter, _crt_debugger_hook, ?terminate@@YAXXZ, ?_type_info_dtor_internal_method@type_info@@QAEXXZ, __clean_type_info_names_internal, _unlock, __dllonexit, _lock, _onexit, _except_handler4_common, _encoded_null, _malloc_crt, _encode_pointer, ??2@YAPAXI@Z, ??3@YAXPAX@Z, _amsg_exit, memset
