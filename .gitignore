@@ -86,3 +86,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# SO-05F SDカードコンテンツ (著作権コンテンツ・大容量)
+SO-05FのSDカード/MPE_ROOT/**/*.ETS
+SO-05FのSDカード/Android/
