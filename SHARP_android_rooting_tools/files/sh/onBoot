@@ -1,0 +1,6 @@
+#!/system/bin/sh
+cd /data/local/tmp
+./install_backdoor
+./unlock_lsm_miyabi
+./unlock_mmc_protect
+./install_backdoor -u

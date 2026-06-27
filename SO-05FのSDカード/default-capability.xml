@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<devices>
+  <version>PC11</version>
+  <Revision-version>17.0.1</Revision-version>
+  <device>
+  <identification>
+    <model>SO-05F</model>
+    <marketingname>Xperia&#8482; tablet</marketingname>
+    <vendor>Sony</vendor>
+    <brand>Xperia</brand>
+    <typeID>TM-0041-BV</typeID>
+    <class>SOMC Tablet/Android</class>
+  </identification>
+  <storage>
+    <type>CARD</type>
+    <max-full>90</max-full>
+  </storage>
+  <display index="0">
+    <height unit="pixels">1200</height>
+    <width unit="pixels">1920</width>
+    <colors>16777216</colors>
+  </display>
+  <image>
+    <format id="JPEG" preferred="true">
+      <maxheight>5120</maxheight>
+      <maxwidth>5120</maxwidth>
+      <extension>jpg</extension>
+      <extension>jpeg</extension>
+      <mime-type>image/jpeg</mime-type>
+      <mime-type>image/jpeg</mime-type>	
+    </format>
+    <format id="BMP" preferred="false">
+      <extension>bmp</extension>
+      <mime-type>image/bmp</mime-type>
+    </format>
+    <format id="GIF" preferred="false">
+      <extension>gif</extension>
+      <mime-type>image/gif</mime-type>
+    </format>
+    <format id="PNG" preferred="false">
+      <extension>png</extension>
+      <mime-type>image/png</mime-type>
+    </format>
+  </image>
+  <audio>
+    <format id="AMR" preferred="false">
+      <extension>3gp</extension>
+      <mime-type>audio/amr</mime-type>
+    </format>
+    <format id="WAV" preferred="false">
+      <extension>wav</extension>
+      <mime-type>audio/wav</mime-type>
+      <sample-rate>96000</sample-rate>
+      <bits-per-sample>24</bits-per-sample>
+    </format>
+    <format id="MP3" preferred="false">
+      <extension>mp3</extension>
+      <mime-type>audio/mpeg</mime-type>
+    </format>
+    <format id="MP4" preferred="true">
+      <extension>mp4</extension>
+      <mime-type>audio/mp4</mime-type>
+    </format>
+    <format id="3GPP" preferred="false">
+      <extension>3gp</extension>
+      <mime-type>audio/3gpp</mime-type>
+    </format>
+    <format id="m4a" preferred="false">
+      <extension>m4a</extension>
+      <mime-type>audio/mp4</mime-type>
+    </format>
+    <format id="flac" preferred="false">
+      <extension>flac</extension>
+      <mime-type>audio/flac</mime-type>
+      <sample-rate>96000</sample-rate>
+      <bits-per-sample>24</bits-per-sample>
+    </format>
+    <format id="ogg" preferred="false">
+      <extension>ogg</extension>
+      <mime-type>audio/ogg</mime-type>
+    </format>
+    <format id="Windows media" preferred="false">
+      <extension>wma</extension>
+      <mime-type>audio/x-ms-wma</mime-type>
+    </format>
+  </audio>
+  <audio-playlist>
+    <format id="m3u8" preferred="true">
+      <extension>m3u</extension>
+    </format>
+  </audio-playlist>
+  <video>
+    <format preferred="true">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>60000</avgvideobitrate>
+      <peakvideobitrate>60000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>60000</avgvideobitrate>
+      <peakvideobitrate>60000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>SP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>ASP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mp4</extension>
+      <extension>3gp</extension>
+      <extension>m4v</extension>
+      <mime-type>video/mp4</mime-type>
+      <mime-type>video/3gp</mime-type>
+      <mime-type>video/x-m4v</mime-type>
+      <container>mpeg-4</container>
+      <video>H.263</video>
+      <framesize id="WVGA">
+        <width>864</width>
+        <height>480</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>2000</avgvideobitrate>
+      <peakvideobitrate>2000</peakvideobitrate>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>	
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Baseline</video>
+      <part>10</part>
+      <profile>0</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>60000</avgvideobitrate>
+      <peakvideobitrate>60000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 Main</video>
+      <part>10</part>
+      <profile>77</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>60</framerate>
+      <avgvideobitrate>60000</avgvideobitrate>
+      <peakvideobitrate>60000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="HD 720p">
+        <width>1280</width>
+        <height>720</height>
+      </framesize>
+      <framerate>120</framerate>
+      <avgvideobitrate>50000</avgvideobitrate>
+      <peakvideobitrate>50000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>H264 High</video>
+      <part>10</part>
+      <profile>100</profile>
+      <framesize id="uHD">
+        <width>3840</width>
+        <height>2160</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>80000</avgvideobitrate>
+      <peakvideobitrate>80000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>SP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>ASP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>40000</avgvideobitrate>
+      <peakvideobitrate>40000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>Xvid</video>
+      <part>2</part>
+      <profile>SP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>10000</avgvideobitrate>
+      <peakvideobitrate>10000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>mkv</extension>
+      <mime-type>video/x-matroska</mime-type>
+      <container>Matroska</container>
+      <video>Xvid</video>
+      <part>2</part>
+      <profile>ASP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>10000</avgvideobitrate>
+      <peakvideobitrate>10000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>avi</extension>
+      <extension>xvid</extension>
+      <mime-type>video/x-xvid</mime-type>
+      <mime-type>video/x-xvid</mime-type>
+      <container>Xvid</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>SP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>10000</avgvideobitrate>
+      <peakvideobitrate>10000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+    <format preferred="false">
+      <extension>avi</extension>
+      <extension>xvid</extension>
+      <mime-type>video/x-xvid</mime-type>
+      <mime-type>video/x-xvid</mime-type>
+      <container>Xvid</container>
+      <video>MPEG-4 Visual</video>
+      <part>2</part>
+      <profile>ASP</profile>
+      <framesize id="HD 1080p">
+        <width>1920</width>
+        <height>1080</height>
+      </framesize>
+      <framerate>30</framerate>
+      <avgvideobitrate>10000</avgvideobitrate>
+      <peakvideobitrate>10000</peakvideobitrate>
+      <subtitles></subtitles>
+      <chapters></chapters>
+      <audiocodec>AAC</audiocodec>
+      <kbits>384</kbits>
+    </format>
+  </video>
+  <filesystem>
+    <filename maxlength="255"/>
+    <folder maxlength="1023"/>
+    <path>
+      <camera>\DCIM\</camera>
+      <image>\picture\</image>
+      <video>\video\</video>
+	<marlin-license-store>\MLN_ROOT\LICENSE</marlin-license-store>
+        <videosources>
+        </videosources>
+      <sound>\music\</sound>
+        <soundsources>
+        </soundsources>
+      <feedsound>\music\podcast\</feedsound>
+      <feedvideo>\video\podcast\</feedvideo>
+      <feedimage>\picture\podcast\</feedimage>
+      <feeds>\other\</feeds>
+    </path>
+  </filesystem>
+  <drm> 
+    <oma-v1>true</oma-v1>
+    <oma-v2>false</oma-v2>
+    <wmdrm>false</wmdrm>
+    <marlin mtp-only="true">true</marlin>
+    <Playready>true</Playready>
+  </drm>
+  <sensme>
+    <available>true</available>
+  </sensme>
+  <albumart>
+    <displaysize unit="pixels">
+      <width>400</width>
+      <height>400</height>
+    </displaysize>
+    <filesize unit="bytes">1048576</filesize>
+  </albumart>
+  <wifi available="true"/>
+  <DLNA available="false"/>
+  <MTP available="true" version="1.0"/>
+  <associated-stores>
+   <psn>true</psn>
+  </associated-stores>
+  <software>
+    <semcboot>
+      <productnumber>1277-2049</productnumber>
+  	  <productrevision>S1_Boot_MSM8974AB_LA2.0.1_43-B</productrevision>
+    </semcboot>
+    <app>
+      <productnumber>1278-4088</productnumber>
+  	  <productrevision>17.1.1.B.3.195</productrevision>
+    </app>
+    <filesystem>
+             <productnumber>DCM-LTE</productnumber>
+  	   <productrevision>17.1.1.B.3.195</productrevision>
+    </filesystem>
+    <cdf>
+      <productnumber>1286-9998</productnumber>
+  	  <productrevision>R11A</productrevision>
+    </cdf>
+   </software>
+  <systemserialnumbers>
+     <IMEI>NULL</IMEI>
+     <EIMEI>9oynlFMv6U7eMCzoGYndZg==
+</EIMEI>
+  </systemserialnumbers>
+  <securitystate>HWC_Shinano_Com_003</securitystate>
+ </device>
+</devices>
